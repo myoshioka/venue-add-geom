@@ -1,5 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
+Click==7.0
 foursquare==1!2016.9.12
 idna==2.8
 numpy==1.15.4
